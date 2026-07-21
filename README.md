@@ -215,7 +215,13 @@ Future projects focusing on:
 - Improve software engineering skills
 - Contribute to open-source projects
 
+---
 
+# 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact)
 ---
 
 # 📫 Contact
