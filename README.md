@@ -234,8 +234,6 @@ Building scalable systems using:
 - Create innovative healthcare technologies
 
 
----
-
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -247,30 +245,23 @@ Building scalable systems using:
 
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github_dark" width="45%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github_dark" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anafaanver&theme=github_dark" width="45%" />
-
-</p>
-
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anafaanver&theme=github_dark" width="48%" />
 
 </p>
 
 
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anafaanver&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Anafaanver&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 
 ---
 
@@ -278,12 +269,9 @@ Building scalable systems using:
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anafaanver&label=Profile%20Views&color=blue&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Anafaanver&label=Profile%20Views&color=blue&style=for-the-badge"/>
 
 </p>
-
----
-
 # 📫 Contact
 
 
