@@ -1,71 +1,45 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,50:6C2BD9,100:BD5FFF&height=220&section=header&text=Anafa%20Anver&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,50:6C2BD9,100:BD5FFF&height=230&section=header&text=Anafa%20Anver&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+
+<h3 align="center">
+Software Engineering Student | AI & Machine Learning Developer | Full Stack Engineer
+</h3>
+
 
 <p align="center">
-<b>Software Engineering Student | AI & ML Developer | Full Stack Engineer</b>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=BD5FFF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning+Developer;Full+Stack+Web+Developer;Building+Intelligent+Healthcare+Solutions;React+%7C+Node.js+%7C+Python;Always+Learning+New+Technologies"/>
 </p>
 
-# Hi, I'm Anafa Anver 👋
-
-## Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
-
-Welcome to my GitHub profile.
-
-I am a Software Engineering student passionate about building intelligent software solutions using Artificial Intelligence, Machine Learning, and Full Stack Development.
-
-My interests include:
-
-- Artificial Intelligence
-- Machine Learning
-- Healthcare Technology
-- Web Application Development
-- Software Engineering
-- Cloud Computing
 
 ---
 
-# 🛠 Tech Stack
+# 👋 About Me
 
-### Programming Languages
+Hi, I'm **Anafa Anver**.
 
-![Python](https://img.shields.io/badge/Python-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
-![Java](https://img.shields.io/badge/Java-orange)
+I am a **Software Engineering student** passionate about designing and developing intelligent software solutions using **Artificial Intelligence, Machine Learning, and Full Stack Development**.
 
+My main interests include:
 
-### Frontend Development
-
-![React](https://img.shields.io/badge/React.js-blue)
-![HTML5](https://img.shields.io/badge/HTML5-orange)
-![CSS3](https://img.shields.io/badge/CSS3-blue)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-green)
-
-
-### Backend Development
-
-![Node.js](https://img.shields.io/badge/Node.js-green)
-![Express.js](https://img.shields.io/badge/Express.js-black)
-![Flask](https://img.shields.io/badge/Flask-black)
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🏥 Healthcare Technology
+- 🌐 Full Stack Web Development
+- ☁️ Cloud Computing
+- ⚙️ Software Engineering
 
 
-### Database
+I enjoy transforming ideas into real-world applications that solve meaningful problems.
 
-![MongoDB](https://img.shields.io/badge/MongoDB-green)
+Currently focusing on:
 
+- AI-powered applications
+- Scalable backend systems
+- Modern frontend development
+- Machine learning integration
 
-### AI & Data Science
-
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-red)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange)
-![XGBoost](https://img.shields.io/badge/XGBoost-blue)
-
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-orange)
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Postman](https://img.shields.io/badge/Postman-orange)
 
 ---
 
@@ -76,194 +50,239 @@ My interests include:
 
 ### AI-Based Predictive System for Early Detection of Emergency Dialysis Need
 
-An AI-powered healthcare web application that predicts emergency dialysis risk using patient symptoms and machine learning models.
 
-### Features:
-
-- Patient registration and login
-- AI risk prediction
-- Emergency alerts
-- Medical history management
-- Hospital location mapping
+An AI-powered healthcare prediction platform that analyzes patient symptoms and health indicators to identify emergency dialysis risks using machine learning models.
 
 
-### Technologies:
+### Features
 
-- React.js
-- Python
-- Flask API
-- Scikit-learn
-- XGBoost
-- Random Forest
-- Leaflet Maps
+✅ Patient Authentication  
+✅ AI Risk Prediction  
+✅ Emergency Alerts  
+✅ Medical History Management  
+✅ Hospital Location Mapping  
+✅ Doctor Access Module  
+
+
+### Technologies
+
+`React.js`  
+`Python`  
+`Flask API`  
+`Scikit-learn`  
+`XGBoost`  
+`Random Forest`  
+`Leaflet Maps`  
 
 
 Repository:
 
-https://github.com/Anafaanver/NephroAlert
+🔗 https://github.com/Anafaanver/NephroAlert
+
 
 
 ---
+
 
 ## 📊 Weekly Report System
 
-A full-stack team reporting platform that allows members to submit weekly work reports and managers to monitor progress through dashboards.
+
+A full-stack team management platform that enables employees to submit weekly reports and managers to monitor project progress through dashboards.
 
 
-### Features:
+### Features
 
-- Role-based authentication
-- Weekly report submission
-- Manager dashboard
-- Project tracking
-- Secure API communication
+✅ Role-Based Authentication  
+✅ Member & Manager Dashboard  
+✅ Weekly Report Submission  
+✅ Project Tracking  
+✅ Secure REST APIs  
 
 
-### Technologies:
+### Technologies
 
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- JWT Authentication
+`React.js`  
+`Node.js`  
+`Express.js`  
+`MongoDB`  
+`JWT Authentication`  
 
 
 Repository:
 
-https://github.com/Anafaanver/weekly-report-system
+🔗 https://github.com/Anafaanver/weekly-report-system
+
 
 
 ---
+
 
 ## 🍌 Banana Memory Game
 
-Interactive memory game application developed using frontend technologies.
+
+Interactive memory game developed using frontend technologies with a simple and engaging user experience.
 
 
-### Technologies:
+### Technologies
 
-- JavaScript
-- HTML
-- CSS
+`HTML`  
+`CSS`  
+`JavaScript`
 
 
 Repository:
 
-https://github.com/Anafaanver/BANANA-MEMORY-GAME
+🔗 https://github.com/Anafaanver/BANANA-MEMORY-GAME
+
 
 
 ---
 
-# 🧠 Technical Skills
+# 🛠 Tech Stack
 
 
-## AI & Machine Learning
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript"/>
+
+</p>
+
+
+## Frontend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,bootstrap,vite"/>
+
+</p>
+
+
+## Backend Development
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,flask"/>
+
+</p>
+
+
+## Database & Cloud
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,aws"/>
+
+</p>
+
+
+## AI & Data Science
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
+
+</p>
+
+
+Tools:
+
+`Git`  
+`GitHub`  
+`Postman`  
+`VS Code`  
+`Jupyter Notebook`
+
+
+
+---
+
+# 🧠 Technical Expertise
+
+
+### Artificial Intelligence
 
 - Machine Learning Models
+- Classification Algorithms
 - Data Preprocessing
 - Model Evaluation
 - Random Forest
 - XGBoost
-- Classification Algorithms
 
 
-## Software Engineering
+### Software Engineering
 
 - Agile Development
-- Software Design
-- API Development
+- Software Architecture
+- REST API Development
 - Database Design
 - Version Control
 
 
-## Development Practices
+### Development Skills
 
-- Clean Code
-- Git Workflow
-- REST APIs
+- Clean Code Practices
+- Responsive UI Design
+- Backend Development
+- API Integration
 - Problem Solving
+
+
 
 ---
 
 # 🌱 Currently Learning
 
+
 - Advanced Machine Learning
+- Deep Learning
 - Cloud Computing
 - DevOps
 - System Design
 - AI Application Development
-- Scalable Software Architecture
 
-
----
-
-# 🔮 Future Projects
-
-
-## 🤖 AI Healthcare Assistant
-
-An intelligent healthcare assistant using:
-
-- Natural Language Processing
-- Machine Learning
-- Cloud AI Services
-
-
----
-
-## 📱 Mobile Healthcare Application
-
-Future mobile application using:
-
-- React Native
-- Firebase
-- Cloud Services
-
-
----
-
-## ☁️ Cloud-Based Applications
-
-Building scalable systems using:
-
-- Cloud Platforms
-- Secure APIs
-- Distributed Systems
 
 
 ---
 
 # 🎯 Goals
 
-- Build impactful AI solutions
-- Develop scalable applications
-- Improve software engineering skills
-- Contribute to open-source projects
-- Create innovative healthcare technologies
+
+🚀 Build impactful AI-powered applications  
+🚀 Develop scalable software systems  
+🚀 Create innovative healthcare technologies  
+🚀 Contribute to open-source projects  
+🚀 Become a professional Full Stack AI Engineer  
+
 
 ---
 
 # 📊 GitHub Statistics
 
+
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github_dark"/>
 
 </p>
 
 
+
 <p align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github_dark" width="48%" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github_dark"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anafaanver&theme=github_dark" width="48%" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anafaanver&theme=github_dark"/>
 
 </p>
+
 
 
 ---
 
 # 🔥 GitHub Streak
+
 
 <p align="center">
 
@@ -272,22 +291,79 @@ Building scalable systems using:
 </p>
 
 
+
+---
+
+# 🏆 GitHub Trophies
+
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Anafaanver&theme=tokyonight&no-frame=true&margin-w=10"/>
+
+</p>
+
+
+
+---
+
+# 📈 Contribution Graph
+
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Anafaanver&theme=tokyo-night"/>
+
+</p>
+
+
+
 ---
 
 # 👀 Profile Visitors
 
+
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Anafaanver&label=Profile%20Views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Anafaanver&label=Profile%20Views&color=BD5FFF&style=for-the-badge"/>
 
 </p>
-# 📫 Contact
 
 
-GitHub:
 
-https://github.com/Anafaanver
+---
 
-LinkedIn:
+# 📫 Connect With Me
 
-https://www.linkedin.com/in/anafa-anver-a896a02a9
+
+<p align="center">
+
+<a href="https://github.com/Anafaanver">
+
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+
+</a>
+
+
+<a href="https://www.linkedin.com/in/anafa-anver-a896a02a9">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+</p>
+
+
+---
+
+<h3 align="center">
+
+✨ Thanks for visiting my profile! ✨
+
+</h3>
+
+<p align="center">
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</p>
