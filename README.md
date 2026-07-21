@@ -29,34 +29,21 @@ My interests include:
 
 
 ## 🩺 NEPHROALERT
-
 ### AI-Based Predictive System for Early Detection of Emergency Dialysis Need
 
-An AI-powered healthcare prediction system that analyses patient symptoms and health indicators to identify emergency dialysis risk.
-
-### Features:
-
-- AI risk prediction
-- Patient symptom analysis
-- Emergency alerts
-- Doctor medical history access
-- Hospital location mapping
-
+An AI-powered healthcare web application that predicts emergency dialysis risk using patient symptoms and machine learning models.
 
 ### Technologies:
-
 - React.js
-- Flask
 - Python
+- Flask API
 - Scikit-learn
 - XGBoost
 - Random Forest
-
+- Leaflet Maps
 
 Repository:
-
 https://github.com/Anafaanver/NephroAlert
-
 
 
 ---
@@ -64,33 +51,17 @@ https://github.com/Anafaanver/NephroAlert
 
 ## 📊 Weekly Report System
 
-### Full Stack Team Report Management Platform
-
-A web-based reporting system that allows team members to submit weekly reports and managers to monitor progress through dashboards.
-
-
-### Features:
-
-- User authentication
-- Role-based access
-- Weekly report submission
-- Manager dashboard
-- Project tracking
-
+A full-stack team reporting and dashboard system.
 
 ### Technologies:
-
 - React.js
 - Node.js
 - Express.js
 - MongoDB
 - JWT Authentication
 
-
 Repository:
-
 https://github.com/Anafaanver/weekly-report-system
-
 
 
 ---
@@ -98,22 +69,15 @@ https://github.com/Anafaanver/weekly-report-system
 
 ## 🍌 Banana Memory Game
 
-### Interactive Browser Memory Game
-
-A frontend-based memory game developed to demonstrate JavaScript logic, user interaction, and responsive web design.
-
+Interactive memory game application.
 
 ### Technologies:
-
+- JavaScript
 - HTML
 - CSS
-- JavaScript
-
 
 Repository:
-
 https://github.com/Anafaanver/BANANA-MEMORY-GAME
-
 
 
 ---
@@ -219,12 +183,26 @@ Future projects focusing on:
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github)
+<p align="center">
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github)
+<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&theme=tokyonight" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&theme=tokyonight" />
+
+</p>
 
 ---
 
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Anafaanver&theme=tokyonight"/>
+
+</p>
+
+---
 # 📫 Contact
 
 GitHub:
