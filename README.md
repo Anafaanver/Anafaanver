@@ -1,3 +1,11 @@
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Anafa%20Anver&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+</p>
+
+<p align="center">
+Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
+</p>
+
 # Hi, I'm Anafa Anver 👋
 
 ## Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
