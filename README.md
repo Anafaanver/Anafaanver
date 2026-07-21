@@ -219,13 +219,10 @@ Future projects focusing on:
 
 # 📊 GitHub Statistics
 
-<p align="center">
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&hide_border=true" />
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&hide_border=true" />
-
-</p>
 ---
 
 # 📫 Contact
