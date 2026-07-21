@@ -8,8 +8,6 @@
 
 # Hi, I'm Anafa Anver 👋
 
-## Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
-
 Welcome to my GitHub profile.
 
 I am a Software Engineering student passionate about building intelligent software solutions using Artificial Intelligence, Machine Learning, and Full Stack Development.
