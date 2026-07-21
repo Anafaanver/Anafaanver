@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-<b>BSc (Hons) Software Engineering Student | AI & ML Developer | Full Stack Engineer</b>
+<b>Software Engineering Student | AI & ML Developer | Full Stack Engineer</b>
 </p>
 
 # Hi, I'm Anafa Anver 👋
@@ -291,21 +291,6 @@ https://github.com/Anafaanver
 LinkedIn:
 
 https://www.linkedin.com/in/anafa-anver-a896a02a9
----
-
----
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:00C9FF&height=180&section=footer&text=Building%20AI-Powered%20Solutions%20%F0%9F%A4%96&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
-</p>
-
-
-<p align="center">
-
-🤖 Artificial Intelligence | 🧠 Machine Learning | 💻 Full Stack Development | 🩺 Healthcare Technology
-
-</p>
-
 
 <p align="center">
 
