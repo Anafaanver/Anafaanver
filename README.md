@@ -185,13 +185,11 @@ Future projects focusing on:
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
 
 </p>
-
----
 
 ---
 # 🔥 GitHub Streak
