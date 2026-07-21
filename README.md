@@ -292,9 +292,11 @@ LinkedIn:
 
 https://www.linkedin.com/in/anafa-anver-a896a02a9
 
+---------------------------------------------------
+
 <p align="center">
 
-⭐ Thanks for visiting my profile!  
-Let's connect and build innovative technology together.
+                      ⭐ Thanks for visiting my profile!  
+             Let's connect and build innovative technology together.
 
 </p>
