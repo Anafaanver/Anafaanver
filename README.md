@@ -183,14 +183,9 @@ Future projects focusing on:
 
 # 📊 GitHub Statistics
 
-<p align="center">
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
-
-</p>
-
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github)
 ---
 # 🔥 GitHub Streak
 
