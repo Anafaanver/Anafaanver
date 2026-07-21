@@ -1,9 +1,9 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=220&section=header&text=Anafa%20Anver&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,50:6C2BD9,100:BD5FFF&height=220&section=header&text=Anafa%20Anver&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
+<b>AI & Machine Learning Developer | Full Stack Engineer</b>
 </p>
 
 # Hi, I'm Anafa Anver 👋
@@ -241,6 +241,7 @@ Building scalable systems using:
 - Contribute to open-source projects
 - Create innovative healthcare technologies
 
+---
 
 # 📊 GitHub Statistics
 
@@ -287,10 +288,19 @@ GitHub:
 
 https://github.com/Anafaanver
 
-
 LinkedIn:
 
-https://www.linkedin.com/in/anafa-anver-a896a02a9
+<a href="https://www.linkedin.com/in/anafa-anver-a896a02a9">
+<img src="https://img.shields.io/badge/LinkedIn-Anafa%20Anver-blue?style=for-the-badge&logo=linkedin"/>
+</a>
 
+---
 
+<p align="center">
+
+⭐ Thanks for visiting my profile!
+
+Let's connect and build innovative technology solutions together.
+
+</p>
 
