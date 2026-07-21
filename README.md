@@ -294,9 +294,29 @@ https://www.linkedin.com/in/anafa-anver-a896a02a9
 
 ---
 
-<p align="center">
+<div align="center">
 
-                      ⭐ Thanks for visiting my profile!  
-             Let's connect and build innovative technology together.
+### 🚀 Building Intelligent Solutions Through Code & AI
 
-</p>
+Software Engineering Student | AI & Machine Learning Developer | Full Stack Engineer
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:12001F,50:6C2BD9,100:BD5FFF&height=120&section=footer"/>
+
+<br>
+
+⭐ Thank you for visiting my GitHub profile.
+
+I am continuously exploring Artificial Intelligence, Machine Learning, and Software Engineering  
+to create scalable and impactful technology solutions.
+
+<br>
+
+Let's connect and collaborate on innovative ideas.
+
+<br>
+
+**© 2026 Anafa Anver | Software Engineering • AI • Full Stack Development**
+
+</div>
