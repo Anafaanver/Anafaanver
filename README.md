@@ -13,7 +13,15 @@ My interests include:
 - Healthcare Technology
 - Web Application Development
 - Software Engineering
+---
+## 🛠 Tech Stack
 
+![Python](https://img.shields.io/badge/Python-Developer-blue)
+![React](https://img.shields.io/badge/React-Frontend-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
+![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-red)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
 
 ---
 
