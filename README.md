@@ -238,13 +238,27 @@ Building scalable systems using:
 
 # 📊 GitHub Statistics
 
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github_dark" />
+
+</p>
+
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github_dark" width="45%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Anafaanver&theme=github_dark" width="45%" />
+
+</p>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 
 </p>
 
@@ -253,13 +267,22 @@ Building scalable systems using:
 
 # 🔥 GitHub Streak
 
-
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Anafaanver&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Anafaanver&theme=tokyonight&hide_border=true"/>
 
 </p>
 
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Anafaanver&label=Profile%20Views&color=blue&style=for-the-badge" />
+
+</p>
 
 ---
 
@@ -276,6 +299,4 @@ LinkedIn:
 https://www.linkedin.com/in/anafa-anver-a896a02a9
 
 
----
 
-![Profile Views](https://komarev.com/ghpvc/?username=Anafaanver&color=blue)
