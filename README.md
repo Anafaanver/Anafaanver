@@ -199,5 +199,8 @@ Future projects focusing on:
 # 📫 Contact
 
 GitHub:
-
 https://github.com/Anafaanver
+
+
+LinkedIn:
+https://www.linkedin.com/in/anafa-anver-a896a02a9
