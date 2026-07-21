@@ -1,10 +1,10 @@
 # Hi, I'm Anafa Anver 👋
 
-## Software Engineering Student | Full Stack Developer | AI Developer
+## Software Engineering Student | Full Stack Developer | AI & Machine Learning Developer
 
 Welcome to my GitHub profile.
 
-I am passionate about developing intelligent software solutions using Artificial Intelligence, Machine Learning, and Full Stack Development.
+I am a Software Engineering student passionate about building intelligent software solutions using Artificial Intelligence, Machine Learning, and Full Stack Development.
 
 My interests include:
 
@@ -13,15 +13,51 @@ My interests include:
 - Healthcare Technology
 - Web Application Development
 - Software Engineering
----
-## 🛠 Tech Stack
+- Cloud Computing
 
-![Python](https://img.shields.io/badge/Python-Developer-blue)
-![React](https://img.shields.io/badge/React-Frontend-blue)
-![JavaScript](https://img.shields.io/badge/JavaScript-Language-yellow)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-green)
-![Machine Learning](https://img.shields.io/badge/AI-Machine%20Learning-red)
-![MongoDB](https://img.shields.io/badge/MongoDB-Database-green)
+---
+
+# 🛠 Tech Stack
+
+### Programming Languages
+
+![Python](https://img.shields.io/badge/Python-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
+![Java](https://img.shields.io/badge/Java-orange)
+
+
+### Frontend Development
+
+![React](https://img.shields.io/badge/React.js-blue)
+![HTML5](https://img.shields.io/badge/HTML5-orange)
+![CSS3](https://img.shields.io/badge/CSS3-blue)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-green)
+
+
+### Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![Express.js](https://img.shields.io/badge/Express.js-black)
+![Flask](https://img.shields.io/badge/Flask-black)
+
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-green)
+
+
+### AI & Data Science
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-red)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-orange)
+![XGBoost](https://img.shields.io/badge/XGBoost-blue)
+
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-orange)
+![GitHub](https://img.shields.io/badge/GitHub-black)
+![Postman](https://img.shields.io/badge/Postman-orange)
 
 ---
 
@@ -29,11 +65,22 @@ My interests include:
 
 
 ## 🩺 NEPHROALERT
+
 ### AI-Based Predictive System for Early Detection of Emergency Dialysis Need
 
 An AI-powered healthcare web application that predicts emergency dialysis risk using patient symptoms and machine learning models.
 
+### Features:
+
+- Patient registration and login
+- AI risk prediction
+- Emergency alerts
+- Medical history management
+- Hospital location mapping
+
+
 ### Technologies:
+
 - React.js
 - Python
 - Flask API
@@ -42,86 +89,91 @@ An AI-powered healthcare web application that predicts emergency dialysis risk u
 - Random Forest
 - Leaflet Maps
 
+
 Repository:
+
 https://github.com/Anafaanver/NephroAlert
 
 
 ---
 
-
 ## 📊 Weekly Report System
 
-A full-stack team reporting and dashboard system.
+A full-stack team reporting platform that allows members to submit weekly work reports and managers to monitor progress through dashboards.
+
+
+### Features:
+
+- Role-based authentication
+- Weekly report submission
+- Manager dashboard
+- Project tracking
+- Secure API communication
+
 
 ### Technologies:
+
 - React.js
 - Node.js
 - Express.js
 - MongoDB
 - JWT Authentication
 
+
 Repository:
+
 https://github.com/Anafaanver/weekly-report-system
 
 
 ---
 
-
 ## 🍌 Banana Memory Game
 
-Interactive memory game application.
+Interactive memory game application developed using frontend technologies.
+
 
 ### Technologies:
+
 - JavaScript
 - HTML
 - CSS
 
+
 Repository:
+
 https://github.com/Anafaanver/BANANA-MEMORY-GAME
 
 
 ---
 
-
-# 🛠 Technical Skills
-
-
-## Programming Languages
-
-- Python
-- JavaScript
-- Java
+# 🧠 Technical Skills
 
 
-## Frontend Development
+## AI & Machine Learning
 
-- React.js
-- HTML5
-- CSS3
-- Tailwind CSS
-
-
-## Backend Development
-
-- Flask
-- Node.js
-- Express.js
-
-
-## AI & Data Science
-
-- Machine Learning
-- Scikit-learn
+- Machine Learning Models
+- Data Preprocessing
+- Model Evaluation
+- Random Forest
 - XGBoost
-- Data Analysis
+- Classification Algorithms
 
 
-## Tools
+## Software Engineering
 
-- Git
-- GitHub
-- Postman
+- Agile Development
+- Software Design
+- API Development
+- Database Design
+- Version Control
 
+
+## Development Practices
+
+- Clean Code
+- Git Workflow
+- REST APIs
+- Problem Solving
 
 ---
 
@@ -132,6 +184,7 @@ https://github.com/Anafaanver/BANANA-MEMORY-GAME
 - DevOps
 - System Design
 - AI Application Development
+- Scalable Software Architecture
 
 
 ---
@@ -141,18 +194,18 @@ https://github.com/Anafaanver/BANANA-MEMORY-GAME
 
 ## 🤖 AI Healthcare Assistant
 
-Future AI system providing intelligent healthcare support using:
+An intelligent healthcare assistant using:
 
-- Machine Learning
 - Natural Language Processing
-- Cloud AI
+- Machine Learning
+- Cloud AI Services
 
 
 ---
 
 ## 📱 Mobile Healthcare Application
 
-Future mobile application development using:
+Future mobile application using:
 
 - React Native
 - Firebase
@@ -163,11 +216,11 @@ Future mobile application development using:
 
 ## ☁️ Cloud-Based Applications
 
-Future projects focusing on:
+Building scalable systems using:
 
-- Scalable systems
+- Cloud Platforms
 - Secure APIs
-- Cloud deployment
+- Distributed Systems
 
 
 ---
@@ -178,16 +231,28 @@ Future projects focusing on:
 - Develop scalable applications
 - Improve software engineering skills
 - Contribute to open-source projects
+- Create innovative healthcare technologies
+
 
 ---
 
 # 📊 GitHub Statistics
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anafaanver&theme=github)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Anafaanver&theme=github)
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Anafaanver&show_icons=true&hide_border=true&theme=tokyonight" width="48%" />
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anafaanver&layout=compact&hide_border=true&theme=tokyonight" width="48%" />
+
+</p>
+
+
 ---
+
 # 🔥 GitHub Streak
+
 
 <p align="center">
 
@@ -195,12 +260,22 @@ Future projects focusing on:
 
 </p>
 
+
 ---
+
 # 📫 Contact
 
+
 GitHub:
+
 https://github.com/Anafaanver
 
 
 LinkedIn:
+
 https://www.linkedin.com/in/anafa-anver-a896a02a9
+
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=Anafaanver&color=blue)
